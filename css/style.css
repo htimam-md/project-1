@@ -1,0 +1,14 @@
+.navbar-expand-lg .navbar-nav .nav-link {
+
+    color: floralwhite !important;
+    font-weight: 600;
+}
+ul li {
+    
+    list-style-type: none;
+}
+ul li a {
+    
+    text-decoration: none;
+    color: antiquewhite;
+}
